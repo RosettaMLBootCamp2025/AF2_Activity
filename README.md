@@ -1,4 +1,4 @@
-# AlphaFold2 Structure Prediction: Parameter Exploration Activity (BRAINSTORM)
+# AlphaFold2 Structure Prediction: Parameter Exploration Activity
 
 ## Overview
 In this activity, all students will use **AlphaFold2 (via LocalColabFold)** to predict the structure of the **same protein (1QYS)**. By systematically varying model parameters, students will understand how different inputs and settings affect prediction quality, speed, and confidence. The class will then compare results to identify optimal prediction strategies.
