@@ -54,8 +54,7 @@ srun --mem=16G --time=1:00:00 --gpus=1 colabfold_batch input/1QYS.fasta 1_baseli
 ## Setup
 
 ### Prerequisites
-1. Install LocalColabFold following: https://github.com/YoshitakaMo/localcolabfold
-2. Verify installation: `colabfold_batch --help`
+1. Install LocalColabFold following: https://github.com/YoshitakaMo/localcolabfold -- **THIS WAS HOMEWORK 4** 
 
 ### Activity Directory Structure
 ```bash
