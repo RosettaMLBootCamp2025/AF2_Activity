@@ -36,11 +36,6 @@ Every institution's computing infrastructure is different. The commands shown he
   - Predictions take ~30-60 minutes on CPU
   - You may need to run fewer experiments or share results with classmates
 
-### Ask Your Instructor
-- How to submit jobs on your specific cluster
-- What resource requests to use (memory, time, CPUs/GPUs)
-- Whether to use `srun`, `sbatch`, or other methods
-- What modules to load before running ColabFold
 
 **Throughout this activity, when you see a command like:**
 ```bash
